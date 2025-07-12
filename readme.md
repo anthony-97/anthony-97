@@ -109,11 +109,6 @@
   </a>
 </p>
 
-<!--Resumen del perfil-->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthony-97&theme=github_dark" alt="Profile Summary" />
-</p>
-
 <!--Contador de visitas-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthony-97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
