@@ -21,68 +21,149 @@
 
 <h3>Lenguajes y herramientas</h3>
 
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="42" height="42" />
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.java.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Java</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">JavaScript</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.typescriptlang.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">TypeScript</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.python.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Python</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://reactjs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">React</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">CSS3</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">HTML5</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://getbootstrap.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Bootstrap</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://nodejs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Node.js</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.mysql.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">MySQL</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://mariadb.org/">
+      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">MariaDB</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://aws.amazon.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">AWS</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.djangoproject.com/">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Django</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://flask.palletsprojects.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Flask</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.linux.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Linux</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://git-scm.com/">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Git</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.docker.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Docker</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://kubernetes.io/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Kubernetes</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://www.microsoft.com/en-us/sql-server/">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">SQL Server</div>
+  </div>
+
+  <div style="text-align: center; width: 80px;">
+    <a target="_blank" href="https://cloud.google.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42" />
+    </a>
+    <div style="font-size: 13px; word-wrap: break-word; word-break: break-word;">Google Cloud</div>
+  </div>
+
+</div>
 
 ---
 
