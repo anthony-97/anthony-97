@@ -19,150 +19,126 @@
 
 ---
 <h3>Lenguajes y herramientas</h3>
-
 <table>
   <tr>
     <td align="center" width="80">
-      <a target="_blank" href="https://www.java.com/">
+      <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
       </a><br />
       Java
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
       </a><br />
       JavaScript
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.typescriptlang.org/">
+      <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
       </a><br />
       TypeScript
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.python.org/">
+      <a href="https://www.python.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
       </a><br />
       Python
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://reactjs.org/">
+      <a href="https://reactjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
       </a><br />
       React
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="80">
-      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
       </a><br />
       CSS3
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
       </a><br />
       HTML5
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://getbootstrap.com/">
+      <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" />
       </a><br />
       Bootstrap
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://nodejs.org/">
+      <a href="https://nodejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
       </a><br />
       Node.js
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.mysql.com/">
+      <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" />
       </a><br />
       MySQL
     </td>
   </tr>
-
   <tr>
     <td align="center" width="80">
-      <a target="_blank" href="https://mariadb.org/">
+      <a href="https://mariadb.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="42" height="42" />
       </a><br />
       MariaDB
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://aws.amazon.com/">
+      <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" />
       </a><br />
       AWS
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.djangoproject.com/">
+      <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" />
       </a><br />
       Django
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://flask.palletsprojects.com/">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" />
       </a><br />
       Flask
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.linux.org/">
+      <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
       </a><br />
       Linux
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="80">
-      <a target="_blank" href="https://git-scm.com/">
+      <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
       </a><br />
       Git
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.docker.com/">
+      <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
       </a><br />
       Docker
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://kubernetes.io/">
+      <a href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="42" height="42" />
       </a><br />
       Kubernetes
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://www.microsoft.com/en-us/sql-server/">
+      <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="42" height="42" />
       </a><br />
       SQL Server
     </td>
-
     <td align="center" width="80">
-      <a target="_blank" href="https://cloud.google.com/">
+      <a href="https://cloud.google.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42" />
       </a><br />
       Google Cloud
